@@ -1,5 +1,5 @@
 {
-"posts": = [
+"posts": [
       {
         "userId": 1,
         "title": "Wild Animals",
@@ -30,7 +30,7 @@
         "body": "Wolf",
         "imageURL": "https://cdn.discordapp.com/attachments/1267875130550522000/1274483889074868357/Coyote-animal-sentience-research.png?ex=66c26b1d&is=66c1199d&hm=30355b038ad25af1dfbd0db2e29a4ffea51681d35d4ac262a34fc481fe6c7fd8&"
       }
-  ];
+  ]
 }
 
 
